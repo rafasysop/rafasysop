@@ -7,7 +7,7 @@ Estou no mundo da programação a +15 anos apaixonado por novas tecnologias, sem
 FullStack Developer :computer:
 
  <br/> :purple_heart: &nbsp; Busco sempre estar me atualizando na programação, aprendendo novas técnicas, fazendo cursos e lendo artigos.
- <br/>  &nbsp; &nbsp; Atualmente estou estudando NestJS para BackEnd e NextJs no FrontEnd
+ <br/>  &nbsp; &nbsp; &nbsp; &nbsp; Atualmente estou estudando NestJS para BackEnd e NextJs no FrontEnd
  <br/> 💻 &nbsp; Minha stack atual: Node.js(NestJS), ReactJS(NextJS), React Native & Typescript.
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, pescar, Já fui CEO de uma empresa por 8 anos.
  <br/> 📩 &nbsp; Entre em contato comigo: 
